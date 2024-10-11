@@ -12,3 +12,5 @@ Component Relationships
 2. Whenthekeyboard is pressed, according to the selected language and layout, the corresponding character is fed to the computer as text input.
 3. It only modifies the keys that are specified in the layout, all other keys are sent as normal keypresses to the computer.
 4. Itcan be extended to support languages other than Indian language.
+
+If you have any queries & need any clarification about the following project, you can contact me on: ntshmathapati2003@gamil.com
